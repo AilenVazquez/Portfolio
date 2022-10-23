@@ -1,0 +1,16 @@
+.container-experiencia {
+    width: 100%;
+    position: relative;
+    padding-top: 20px;
+    display: inline-flex;
+
+    img {
+        position: absolute;
+        height: 170px;
+    }
+
+    .infoEmpleo {
+        position: relative;
+        padding-left: 25px;
+    }
+}
